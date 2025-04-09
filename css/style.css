@@ -1,0 +1,34 @@
+body {
+  background-color: #fcb454;
+}
+
+img {
+  width: 400px;
+  border-style: solid;
+  border-radius: 15px;
+}
+
+.sobre-o-animal {
+  border-style: solid;
+  border-radius: 1.1%;
+  border-width: 3px;
+  text-align: center;
+}
+
+h1 {
+  color: #fff085;
+  border-style: solid;
+  border-radius: 15px;
+  text-align: center;
+  border-width: 3px;
+  border-color: black;
+}
+
+h3 {
+  color: #fff085;
+  border-style: solid;
+  border-radius: 8px;
+  text-align: center;
+  border-width: 3px;
+  border-color: black;
+}
