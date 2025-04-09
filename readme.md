@@ -8,5 +8,7 @@
 - css
 
 ### Como visualizar o projeto:
+
 - você clica dentro das pasta de html, css o algo do tipo e abre...
 
+#### creditos das fotos: meu gato milo :3
