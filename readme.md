@@ -8,4 +8,6 @@
 - css
 
 ### Como visualizar o projeto:
-- 
+- clique em um arquivo...
+
+#### creditos a meu gato milo :3 
